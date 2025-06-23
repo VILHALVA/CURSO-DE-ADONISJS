@@ -1,4 +1,26 @@
 # INSTRUÇÕES (GENERICAS)
+
+---
+## INDICE
+- [01) O QUE É REST API COM ADONIS?](./README.md#01-o-que-é-rest-api-com-adonis)
+- [02) FERRAMENTAS PARA O ADONISJS](./README.md#02-ferramentas-para-o-adonisjs)
+- [03) INSTALANDO ADONISJS](./README.md#03-instalando-adonisjs)
+- [03.01) A DIFERENÇA ENTRE CRIAR UM PROJETO DE INSTERFACE E UMA API REST](./README.md#0301-a-diferença-entre-criar-um-projeto-de-insterface-e-uma-api-rest)
+- [04) ESTRUTURA BASICA](./README.md#04-estrutura-basica)
+- [05) CRIANDO ROTAS](./README.md#05-criando-rotas)
+- [06) REGISTRO DE USUARIOS](./README.md#06-registro-de-usuarios)
+- [07) LOGIN DE USUARIOS E JWT](./README.md#07-login-de-usuarios-e-jwt)
+- [08) CRIANDO MODELOS E RELAÇÕES](./README.md#08-criando-modelos-e-relações)
+- [09) CRIANDO O METODO INDEX](./README.md#09-criando-o-metodo-index)
+- [10) CRIANDO O METODO CREAT](./README.md#10-criando-o-metodo-creat)
+- [11) CRIANDO O METODO DESTROY](./README.md#11-criando-o-metodo-destroy)
+- [12) CRIANDO SERVIÇOS E EXCEÇÕES](./README.md#12-criando-serviços-e-exceções)
+- [13) CRIANDO O METODO UPDATE](./README.md#13-criando-o-metodo-update)
+- [14) CRIANDO O MODELO DE TAREFAS](./README.md#14-criando-o-modelo-de-tarefas)
+- [15) CRIANDO O METODO CREATE DE TAREFAS](./README.md#15-criando-o-metodo-create-de-tarefas)
+- [16) CRIANDO O METODO INDEX DE TAREFAS](./README.md#16-criando-o-metodo-index-de-tarefas)
+---
+
 ## 01) O QUE É REST API COM ADONIS?
 Uma REST API (Representational State Transfer Application Programming Interface) é um conjunto de padrões e convenções para a criação de serviços web que permitem a comunicação entre clientes e servidores via HTTP. Em AdonisJS, criar uma REST API envolve definir rotas, controladores e modelos para manipular dados e responder às requisições HTTP.
 
